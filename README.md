@@ -1,7 +1,7 @@
 # Hi there, I'm Vaduga 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vaduga/)
-<a href="https://ru.hexlet.io/u/vaduga " ><img align="" width="40px" height="20px" src="https://geekhacker.ru/wp-content/uploads/2020/10/hexlet_logo.jpg"/></a>
+<a href="https://ru.hexlet.io/u/vaduga " ><img align="" width="60px" height="20px" src="https://s3.eu-central-1.amazonaws.com/trengo/media/hc_logo_7mGzDWVpE2.png"/></a>
 <!-- [![](https://www.codewars.com/users/vaduga/badges/micro)](https://www.codewars.com/users/vaduga) -->
 
 __Prefer__:
