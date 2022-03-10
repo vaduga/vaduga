@@ -18,6 +18,8 @@ __Contact me__:
 - [🛩 Telegram][telegram]
 - [✉️ Email][email]
 
+![](https://komarev.com/ghpvc/?username=vaduga)
+
 [twitter]: https://twitter.com/vaduga
 [linkedin]: https://linkedin.com/in/vaduga/
 [telegram]: https://t.me/vaduga
