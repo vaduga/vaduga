@@ -2,6 +2,8 @@
 
 __Prefer__:
 
+<img align="left" alt="Grafana" width="20px" 
+src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" />
 <img align="left" alt="JavaScript" width="20px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="20px" 
