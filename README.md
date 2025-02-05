@@ -1,4 +1,4 @@
-# Hi there, I'm Vaduga 👋
+# Hi there, I'm Vaduga 👋 Developer of https://mapgl.org
 
 __Prefer__:
 
