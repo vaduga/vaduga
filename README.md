@@ -18,10 +18,11 @@ __Contact me__:
 - [🛩 Telegram][telegram]
 - [✉️ Email][email]
 
-[![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/vaduga/React-js-Node-js-full-stack-developer-222873d19b4940458953c4c5f27ca2e1)
+
+<!-- [![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/vaduga/React-js-Node-js-full-stack-developer-222873d19b4940458953c4c5f27ca2e1) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vaduga/)
-<a href="https://ru.hexlet.io/u/vaduga " ><img align="" width="60px" height="20px" src="https://s3.eu-central-1.amazonaws.com/trengo/media/hc_logo_7mGzDWVpE2.png"/></a>
+<!-- <a href="https://ru.hexlet.io/u/vaduga " ><img align="" width="60px" height="20px" src="https://s3.eu-central-1.amazonaws.com/trengo/media/hc_logo_7mGzDWVpE2.png"/></a> -->
 ![](https://komarev.com/ghpvc/?username=vaduga)
 
 [twitter]: https://twitter.com/vaduga
