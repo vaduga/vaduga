@@ -1,4 +1,4 @@
-# Hi there, I'm Vaduga 👋 Developer of [Mapgl](https://mapgl.org) Grafana plugin
+# Hi, I'm Vaduga 👋 Developer of [Mapgl](https://mapgl.org) Grafana plugin
 
 __Prefer__:
 
